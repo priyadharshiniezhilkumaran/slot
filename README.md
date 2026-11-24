@@ -31,12 +31,12 @@ Execute the program using runserver command.
 <html>
     <head>
         <title>Time Table</title>
-        <img src="logo.png" style="display:block ; margin: auto; margin-left:auto; margin-right: auto ; width: 100%; max-width: 580px ; height: auto;"><br><br>
     </head>
     <body>
+      <img src="logo.png" style="display:block ; margin: auto; margin-left:auto; margin-right: auto ; width: 100%; max-width: 580px ; height: auto;"><br><br>
 
      <table align="center" border="1" cellspacing="2" cellpading="12" >
-      <caption align="center" style="font-family:'Times New Roman', Times, serif; font: size 45px;"><b>SLOT TIME TABLE - PRIYADHARSHINI E (26013770) </b></caption>
+      <caption align="center" style="font-family:'Times New Roman'; font-size 45px;"><b>SLOT TIME TABLE - PRIYADHARSHINI E (26013770) </b></caption>
      
         <tr bgcolor="lightblue" align="center">
             <td> Day/Time </td>
@@ -128,6 +128,7 @@ Execute the program using runserver command.
      </table>
     </body>
 </html>
+
 ```
   
 
